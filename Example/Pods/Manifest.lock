@@ -1,7 +1,7 @@
 PODS:
-  - GraphQL (0.0.3):
-    - GraphQL/Resources (= 0.0.3)
-  - GraphQL/Resources (0.0.3)
+  - GraphQL (0.0.4):
+    - GraphQL/Resources (= 0.0.4)
+  - GraphQL/Resources (0.0.4)
 
 DEPENDENCIES:
   - GraphQL (from `../`)
@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  GraphQL: e60ecf24ec4b3a4ada8879f81a3acc74dc483177
+  GraphQL: ce066162347710507f8b03c931df604dabf95d72
 
 PODFILE CHECKSUM: 3ef658026d4fe28d4019b2c062bad876d3c2c4ec
 
