@@ -11,6 +11,7 @@
 #endif
 
 #import "GQLEngine.h"
+#import "TimerJS.h"
 
 FOUNDATION_EXPORT double GraphQLVersionNumber;
 FOUNDATION_EXPORT const unsigned char GraphQLVersionString[];
